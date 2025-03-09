@@ -1,15 +1,14 @@
 <!-- <img src="https://github.com/MohammadYehya/MohammadYehya/blob/main/working.gif" alt="" /> -->
 <h1 align="center">Hi 👋, I'm Hasan Iqbal</h1>
-<img align='right' src="./gitassets/" height="240px"/>
+<img align='right' src="./gitassets/Coding_Gif.gif" height="240px"/>
 <p align="left">
 
 - 🎓 I'm currently an undergraduate student at FAST NUCES.
-- 🤖 I have a mild obsession with System Design and AI. If there's a new tech out there, I’m probably already trying to break it or make it better.
+- 🤖 I have a mild obsession with architecting efficient backend systems, and crafting seamless mobile experiences with Flutter.
 - 🚀 Future Goals:
-  - 🧠 Develop Generative AI-based Saas (because why not let AI do all the work?)
-  - 🎮 Create an open-source game engine (because reinventing the wheel is my idea of fun).
-  - ⚡ Learn Rust to make things blazingly fast and unreasonably secure.
-- ♟️ I play Chess! Not saying I’m a grandmaster, but I have definitely rage-quit a few games.
+  - 🧠 Engineer robust SaaS platforms with cloud-native solutions
+  - 🎮 Develop cross-platform mobile apps with Flutter that are both beautiful and functional.
+  - ⚡ Build and deploy cloud-native applications with a focus on reliability and scalability.
 
 </p>
 
