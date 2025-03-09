@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/MohammadYehya/MohammadYehya/blob/main/working.gif" alt="" /> -->
 <h1 align="center">Hi 👋, I'm Hasan Iqbal</h1>
-<img align='right' src="./gitassets/Coding_Gif.gif" height="240px" width="500px"/>
+<img align='right' src="./gitassets/Coding_Gif.gif" height="240px" width="450px"/>
 <p align="left">
 
 - 🎓 I'm currently an undergraduate student at FAST NUCES.
