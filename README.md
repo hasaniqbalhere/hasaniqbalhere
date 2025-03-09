@@ -178,10 +178,10 @@
 <h2 align="center">📂 Top Repos</h2>
 <p align="center">
   <a href="https://github.com/MohammadYehya/GridForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=GridForge&theme=bear&show_icons=true&border_color=EFBF04" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasaniqbalhere&repo=LinguaLink&theme=bear&show_icons=true&border_color=EFBF04" alt=""/>
   </a>
   <a href="https://github.com/MohammadYehya/LinguaLink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadyehya&repo=LinguaLink&theme=bear&show_icons=true&border_color=EFBF04" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasaniqbalhere&repo=Quantum_Edge_Detection&theme=bear&show_icons=true&border_color=EFBF04" alt=""/>
   </a>
 </p>
 
