@@ -26,8 +26,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasaniqbalhere&theme=bear&show_icons=true&border_color=EFBF04&rank_icon=default&border_radius=4.5&include_all_commits=false&count_private=true" alt="mohammadyehya" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaniqbalhere&theme=bear&border_color=EFBF04&border_radius=4.5&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasaniqbalhere&theme=bear&show_icons=true&border_color=EFBF04&rank_icon=default&border_radius=4.5&include_all_commits=false&count_private=true" alt="mohammadyehya" /> -->
+  
+  <img align="center" src="./profile/stats.svg" alt="Hasan Iqbal GitHub Stats" />
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
